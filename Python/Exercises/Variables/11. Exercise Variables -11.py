@@ -1,3 +1,6 @@
+#Exercise Variables - 11
+#Modify the variables as suggesteda = 'hello' #capitalize
+
 a = 'hello' #capitalize
 a = a.capitalize()
 b = 'tom' #uppercase
